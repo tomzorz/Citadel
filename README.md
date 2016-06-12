@@ -3,7 +3,7 @@ a customizable self-hosted homepage built with asp.net core
 
 ## My current plans
 
-* three built-in main modules
+* four built-in main modules
   * speed dial
     * two main features
     * #1: links in categories
@@ -21,6 +21,9 @@ a customizable self-hosted homepage built with asp.net core
     * this is to embed things like rss readers, GTD tools etc...
     * I don't want to implement a bunch of 3rd party APIs, so this seems like an easy solution
     * maybe css injection and other things could come in handy here
+   * countdowns
+    * countdown for non-immediate events
+    * countdown items have: name, target datetime, description, weight (for ordering)
 * auth
   * for one user or multiple
   * could be disabled, or limited to editing only
