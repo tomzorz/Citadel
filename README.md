@@ -14,6 +14,7 @@ a customizable self-hosted homepage built with asp.net core
     * the "goto console" can also open urls directly if you type '.' first
   * bookmarks
     * these have: name, url, description (optional), date of addition, tags (optional)
+    * automatically archive site on the date of addition with archive.is
     * two extra (non-implicit) features
     * #1: quick way to add a bookmark (browser toolbar js button?)
     * #2: quick way to sort + tag uncategorized bookmarks
